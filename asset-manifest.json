@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/provaccin/static/js/main.165ee928.chunk.js",
+    "main.js.map": "/provaccin/static/js/main.165ee928.chunk.js.map",
+    "runtime-main.js": "/provaccin/static/js/runtime-main.875aa86d.js",
+    "runtime-main.js.map": "/provaccin/static/js/runtime-main.875aa86d.js.map",
+    "static/js/2.f6099b94.chunk.js": "/provaccin/static/js/2.f6099b94.chunk.js",
+    "static/js/2.f6099b94.chunk.js.map": "/provaccin/static/js/2.f6099b94.chunk.js.map",
+    "index.html": "/provaccin/index.html",
+    "static/js/2.f6099b94.chunk.js.LICENSE.txt": "/provaccin/static/js/2.f6099b94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.875aa86d.js",
+    "static/js/2.f6099b94.chunk.js",
+    "static/js/main.165ee928.chunk.js"
+  ]
+}
