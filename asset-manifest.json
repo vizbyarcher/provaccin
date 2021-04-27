@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/provaccin/static/js/main.64e15022.chunk.js",
-    "main.js.map": "/provaccin/static/js/main.64e15022.chunk.js.map",
+    "main.js": "/provaccin/static/js/main.c39465df.chunk.js",
+    "main.js.map": "/provaccin/static/js/main.c39465df.chunk.js.map",
     "runtime-main.js": "/provaccin/static/js/runtime-main.875aa86d.js",
     "runtime-main.js.map": "/provaccin/static/js/runtime-main.875aa86d.js.map",
-    "static/js/2.5e7ad28f.chunk.js": "/provaccin/static/js/2.5e7ad28f.chunk.js",
-    "static/js/2.5e7ad28f.chunk.js.map": "/provaccin/static/js/2.5e7ad28f.chunk.js.map",
+    "static/js/2.d1c9aa6e.chunk.js": "/provaccin/static/js/2.d1c9aa6e.chunk.js",
+    "static/js/2.d1c9aa6e.chunk.js.map": "/provaccin/static/js/2.d1c9aa6e.chunk.js.map",
     "index.html": "/provaccin/index.html",
-    "static/js/2.5e7ad28f.chunk.js.LICENSE.txt": "/provaccin/static/js/2.5e7ad28f.chunk.js.LICENSE.txt"
+    "static/js/2.d1c9aa6e.chunk.js.LICENSE.txt": "/provaccin/static/js/2.d1c9aa6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.875aa86d.js",
-    "static/js/2.5e7ad28f.chunk.js",
-    "static/js/main.64e15022.chunk.js"
+    "static/js/2.d1c9aa6e.chunk.js",
+    "static/js/main.c39465df.chunk.js"
   ]
 }
